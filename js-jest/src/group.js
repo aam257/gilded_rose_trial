@@ -5,9 +5,9 @@ import Backstage from "./backstage_pass";
 
 let specialItems = {
   "Aged Brie": Brie,
-  "Backstage passes": Backstage,
+  "Backstage passes to a TAFKAL80ETC concert": Backstage,
 };
 
-let legendaryItems = ["Sulfuras"];
+let legendaryItems = ["Sulfuras, Hand of Ragnaros"];
 
 export { specialItems, legendaryItems };
