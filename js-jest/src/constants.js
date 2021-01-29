@@ -1,0 +1,4 @@
+const MAX_QUALITY = 50;
+const MIN_QUALITY = 0;
+
+export { MAX_QUALITY, MIN_QUALITY };

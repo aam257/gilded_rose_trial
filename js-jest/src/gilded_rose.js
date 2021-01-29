@@ -1,3 +1,5 @@
+import Item from "./items";
+
 class Shop {
   constructor(items = []) {
     this.items = items;
@@ -62,6 +64,5 @@ class Shop {
 }
 
 module.exports = {
-  Item,
   Shop,
 };
